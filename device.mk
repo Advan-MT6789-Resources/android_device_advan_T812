@@ -26,9 +26,5 @@ PRODUCT_PACKAGES += \
 PRODUCT_SOONG_NAMESPACES += \
 	$(LOCAL_PATH)
 
-# TEE
-PRODUCT_PACKAGES += \
-	libkeymint.vendor:64
-
 # Inherit from vendor blobs
 $(call inherit-product, vendor/advan/T812/T812-vendor.mk)
