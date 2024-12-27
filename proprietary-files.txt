@@ -15,7 +15,7 @@ vendor/etc/smartpa_param/AW_SINWAVE_DSP.bin
 # Camera
 vendor/bin/hw/mt6789/camerahalserver
 vendor/etc/init/camerahalserver.rc
--vendor/etc/vintf/manifest/manifest_cameraprovider.xml
+vendor/etc/vintf/manifest/manifest_cameraprovider.xml
 vendor/lib64/hw/mt6789/android.hardware.camera.provider@2.6-impl-mediatek.so
 vendor/lib64/hw/mt6789/vendor.mediatek.hardware.camera.atms@1.0-impl.so
 vendor/lib64/hw/mt6789/vendor.mediatek.hardware.camera.bgservice@1.1-impl.so
@@ -1632,9 +1632,9 @@ vendor/bin/tee_check_keybox
 vendor/bin/teed
 vendor/etc/init/android.hardware.security.keymint-service.trustkernel.rc
 vendor/etc/init/trustkernel.rc
--vendor/etc/vintf/manifest/android.hardware.security.keymint-service.trustkernel.xml
--vendor/etc/vintf/manifest/android.hardware.security.secureclock-service.trustkernel.xml
--vendor/etc/vintf/manifest/android.hardware.security.sharedsecret-service.trustkernel.xml
+vendor/etc/vintf/manifest/android.hardware.security.keymint-service.trustkernel.xml
+vendor/etc/vintf/manifest/android.hardware.security.secureclock-service.trustkernel.xml
+vendor/etc/vintf/manifest/android.hardware.security.sharedsecret-service.trustkernel.xml
 vendor/lib64/libkphhelper.so
 vendor/lib64/libkphproxy.so
 vendor/lib64/libpl.so
