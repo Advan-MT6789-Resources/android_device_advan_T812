@@ -1618,6 +1618,7 @@ vendor/etc/media_codecs_performance.xml
 vendor/etc/media_profiles_V1_0.xml
 
 # TEE
+system/lib64/android.hardware.security.keymint-V3-ndk.so:vendor/lib64/android.hardware.security.keymint-V3-ndk-mtk.so;FIX_SONAME
 vendor/app/t6/data/E62563B4905C52822EADA8E32E5180D6/6B6579626F785F6372797074
 vendor/app/t6/data/E62563B4905C52822EADA8E32E5180D6/77766B625F6372797074
 vendor/app/t6/02662e8e-e126-11e5-b86d9a79f06e9478.ta
