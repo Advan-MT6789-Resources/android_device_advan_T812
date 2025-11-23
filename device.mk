@@ -18,6 +18,10 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
 	$(KERNEL_PATH)/Image.gz:kernel
 
+# Overlays
+PRODUCT_PACKAGES += \
+	FrameworksResOverlayT812
+
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
 	$(LOCAL_PATH)
