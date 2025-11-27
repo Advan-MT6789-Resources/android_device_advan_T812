@@ -1,7 +1,6 @@
 # All blobs from sys_mssi_t_64_cn_armv82-user 14 UP1A.231005.007 1729758888 release-keys, unless pinned
 
 # Audio
-vendor/lib64/libaudioloudc.so
 vendor/lib64/libawinic_mtk_aurisys.so
 
 # Audio configs
