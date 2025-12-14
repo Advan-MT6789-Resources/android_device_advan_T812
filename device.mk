@@ -14,6 +14,9 @@ $(call inherit-product, device/advan/mt6789-common/common.mk)
 PRODUCT_COPY_FILES += \
 	$(LOCAL_PATH)/configs/audio/audio_policy_configuration.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio_policy_configuration.xml
 
+# Is tablet
+TARGET_IS_TABLET := true
+
 # Kernel
 PRODUCT_COPY_FILES += \
 	$(KERNEL_PATH)/Image.gz:kernel

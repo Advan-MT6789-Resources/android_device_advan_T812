@@ -5,4 +5,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_T812.mk
+    $(LOCAL_DIR)/mica_T812.mk
