@@ -23,8 +23,8 @@ PRODUCT_MODEL := 8004
 PRODUCT_GMS_CLIENTID_BASE := android-advandigital
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    BuildDesc="sys_mssi_t_64_cn_armv82-user 14 UP1A.231005.007 1729758888 release-keys" \
-    BuildFingerprint=ADVAN/ADVAN_TAB_V8/ADVAN_TAB_V8:14/UP1A.231005.007/1729758888:user/release-keys \
+    BuildDesc="sys_mssi_t_64_cn_armv82-user 15 AP3A.240905.015.A2 1739896298 release-keys" \
+    BuildFingerprint=Alldocube/iPlay60_mini_Pro/iPlay60_mini_Pro:15/AP3A.240905.015.A2/1739896298:user/release-keys \
     DeviceName=ADVAN_TAB_V8 \
     DeviceProduct=ADVAN_TAB_V8 \
     SystemDevice=ADVAN_TAB_V8 \

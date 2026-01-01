@@ -1,4 +1,4 @@
-# All blobs from sys_mssi_t_64_cn_armv82-user 14 UP1A.231005.007 1729758888 release-keys, unless pinned
+# All blobs from sys_mssi_t_64_cn_armv82-user 15 AP3A.240905.015.A2 1739896298 release-keys, unless pinned
 
 # Audio
 vendor/lib64/libawinic_mtk_aurisys.so
@@ -27,6 +27,8 @@ vendor/lib64/mt6789/bf2553l_mipi_raw_IdxMgr.so;SYMLINK=vendor/lib64/bf2553l_mipi
 vendor/lib64/mt6789/bf2553l_mipi_raw_tuning.so;SYMLINK=vendor/lib64/bf2553l_mipi_raw_tuning.so
 vendor/lib64/mt6789/bf2553lf_mipi_raw_IdxMgr.so;SYMLINK=vendor/lib64/bf2553lf_mipi_raw_IdxMgr.so
 vendor/lib64/mt6789/bf2553lf_mipi_raw_tuning.so;SYMLINK=vendor/lib64/bf2553lf_mipi_raw_tuning.so
+vendor/lib64/mt6789/bf2557f_mipi_raw_IdxMgr.so;SYMLINK=vendor/lib64/bf2557f_mipi_raw_IdxMgr.so
+vendor/lib64/mt6789/bf2557f_mipi_raw_tuning.so;SYMLINK=vendor/lib64/bf2557f_mipi_raw_tuning.so
 vendor/lib64/mt6789/c5590_mipi_raw_IdxMgr.so;SYMLINK=vendor/lib64/c5590_mipi_raw_IdxMgr.so
 vendor/lib64/mt6789/c5590_mipi_raw_tuning.so;SYMLINK=vendor/lib64/c5590_mipi_raw_tuning.so
 vendor/lib64/mt6789/gc02m1_mipi_raw_IdxMgr.so;SYMLINK=vendor/lib64/gc02m1_mipi_raw_IdxMgr.so
@@ -98,6 +100,26 @@ vendor/lib64/mt6789/lib3a.log.so;SYMLINK=vendor/lib64/lib3a.log.so
 vendor/lib64/mt6789/lib3a.n3d3a.so;SYMLINK=vendor/lib64/lib3a.n3d3a.so
 vendor/lib64/mt6789/lib3a.sensors.color.so;SYMLINK=vendor/lib64/lib3a.sensors.color.so
 vendor/lib64/mt6789/lib3a.sensors.flicker.so;SYMLINK=vendor/lib64/lib3a.sensors.flicker.so
+vendor/lib64/mt6789/libCamera_bf2557fmipiraw_E2EHDR_Preview.so;SYMLINK=vendor/lib64/libCamera_bf2557fmipiraw_E2EHDR_Preview.so
+vendor/lib64/mt6789/libCamera_bf2557fmipiraw_E2EHDR_Video.so;SYMLINK=vendor/lib64/libCamera_bf2557fmipiraw_E2EHDR_Video.so
+vendor/lib64/mt6789/libCamera_bf2557fmipiraw_Face_Capture.so;SYMLINK=vendor/lib64/libCamera_bf2557fmipiraw_Face_Capture.so
+vendor/lib64/mt6789/libCamera_bf2557fmipiraw_Flash_Capture.so;SYMLINK=vendor/lib64/libCamera_bf2557fmipiraw_Flash_Capture.so
+vendor/lib64/mt6789/libCamera_bf2557fmipiraw_HDR_Capture.so;SYMLINK=vendor/lib64/libCamera_bf2557fmipiraw_HDR_Capture.so
+vendor/lib64/mt6789/libCamera_bf2557fmipiraw_HDR_Preview.so;SYMLINK=vendor/lib64/libCamera_bf2557fmipiraw_HDR_Preview.so
+vendor/lib64/mt6789/libCamera_bf2557fmipiraw_HDR_Reconfig_Preview.so;SYMLINK=vendor/lib64/libCamera_bf2557fmipiraw_HDR_Reconfig_Preview.so
+vendor/lib64/mt6789/libCamera_bf2557fmipiraw_HDR_Reconfig_Video.so;SYMLINK=vendor/lib64/libCamera_bf2557fmipiraw_HDR_Reconfig_Video.so
+vendor/lib64/mt6789/libCamera_bf2557fmipiraw_HDR_Video.so;SYMLINK=vendor/lib64/libCamera_bf2557fmipiraw_HDR_Video.so
+vendor/lib64/mt6789/libCamera_bf2557fmipiraw_N3D_Capture.so;SYMLINK=vendor/lib64/libCamera_bf2557fmipiraw_N3D_Capture.so
+vendor/lib64/mt6789/libCamera_bf2557fmipiraw_N3D_Preview.so;SYMLINK=vendor/lib64/libCamera_bf2557fmipiraw_N3D_Preview.so
+vendor/lib64/mt6789/libCamera_bf2557fmipiraw_N3D_Video.so;SYMLINK=vendor/lib64/libCamera_bf2557fmipiraw_N3D_Video.so
+vendor/lib64/mt6789/libCamera_bf2557fmipiraw_P1_YUV.so;SYMLINK=vendor/lib64/libCamera_bf2557fmipiraw_P1_YUV.so
+vendor/lib64/mt6789/libCamera_bf2557fmipiraw_Scene_Capture.so;SYMLINK=vendor/lib64/libCamera_bf2557fmipiraw_Scene_Capture.so
+vendor/lib64/mt6789/libCamera_bf2557fmipiraw_Scene_Capture_4cell.so;SYMLINK=vendor/lib64/libCamera_bf2557fmipiraw_Scene_Capture_4cell.so
+vendor/lib64/mt6789/libCamera_bf2557fmipiraw_Scene_Preview.so;SYMLINK=vendor/lib64/libCamera_bf2557fmipiraw_Scene_Preview.so
+vendor/lib64/mt6789/libCamera_bf2557fmipiraw_Scene_Preview_4k.so;SYMLINK=vendor/lib64/libCamera_bf2557fmipiraw_Scene_Preview_4k.so
+vendor/lib64/mt6789/libCamera_bf2557fmipiraw_Scene_Preview_ZSD_Flash.so;SYMLINK=vendor/lib64/libCamera_bf2557fmipiraw_Scene_Preview_ZSD_Flash.so
+vendor/lib64/mt6789/libCamera_bf2557fmipiraw_Video_1080.so;SYMLINK=vendor/lib64/libCamera_bf2557fmipiraw_Video_1080.so
+vendor/lib64/mt6789/libCamera_bf2557fmipiraw_Video_4k.so;SYMLINK=vendor/lib64/libCamera_bf2557fmipiraw_Video_4k.so
 vendor/lib64/mt6789/libCamera_gc02m1mipiraw_E2EHDR_Preview.so;SYMLINK=vendor/lib64/libCamera_gc02m1mipiraw_E2EHDR_Preview.so
 vendor/lib64/mt6789/libCamera_gc02m1mipiraw_E2EHDR_Video.so;SYMLINK=vendor/lib64/libCamera_gc02m1mipiraw_E2EHDR_Video.so
 vendor/lib64/mt6789/libCamera_gc02m1mipiraw_Face_Capture.so;SYMLINK=vendor/lib64/libCamera_gc02m1mipiraw_Face_Capture.so
