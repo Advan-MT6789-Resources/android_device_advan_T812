@@ -20,6 +20,7 @@ PRODUCT_COPY_FILES += \
 
 # Overlays
 PRODUCT_PACKAGES += \
+	ApertureResOverlayT812 \
 	FrameworksResOverlayT812
 
 # Soong namespaces
