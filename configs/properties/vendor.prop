@@ -27,6 +27,9 @@ ro.hardware.gatekeeper=trustkernel
 # Keymaster
 ro.hardware.kmsetkey=trustkernel
 
+# Surfaceflinger
+ro.surface_flinger.game_default_frame_rate_override=90
+
 # TEE
 ro.vendor.mtk_tk_tee_drm_support=1
 ro.vendor.mtk_trustkernel_tee_support=1
