@@ -1,0 +1,4 @@
+# Gestures
+genfscon proc /android_touch/GESTURE                                                    u:object_r:proc_gestures:s0
+genfscon proc /android_touch/SMWP                                                       u:object_r:proc_gestures:s0
+genfscon sysfs /devices/platform/soc/1100a000.spi0/spi_master/spi0/spi0.1/ts_gesture    u:object_r:sysfs_gestures:s0

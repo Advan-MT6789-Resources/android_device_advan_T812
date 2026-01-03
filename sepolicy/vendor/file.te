@@ -1,0 +1,3 @@
+# Gestures
+type proc_gestures, fs_type, proc_type;
+type sysfs_gestures, fs_type, sysfs_type;

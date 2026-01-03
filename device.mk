@@ -23,6 +23,9 @@ PRODUCT_PACKAGES += \
 	ApertureResOverlayT812 \
 	FrameworksResOverlayT812
 
+# Power
+$(call soong_config_set,mediatek_power,powerhal_ext,//$(LOCAL_PATH):libpowermode-ext-T812)
+
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
 	$(LOCAL_PATH)
