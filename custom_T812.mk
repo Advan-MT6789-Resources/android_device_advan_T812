@@ -8,13 +8,13 @@
 $(call inherit-product, $(SRC_TARGET_DIR)/product/core_64_bit_only.mk)
 $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 
-# Inherit some common Lineage stuff.
-$(call inherit-product, vendor/lineage/config/common_full_tablet.mk)
+# Inherit some common PixelOS stuff.
+$(call inherit-product, vendor/custom/config/common_full_tablet.mk)
 
 # Inherit from T812 device
 $(call inherit-product, device/advan/T812/device.mk)
 
-PRODUCT_NAME := lineage_T812
+PRODUCT_NAME := custom_T812
 PRODUCT_DEVICE := T812
 PRODUCT_MANUFACTURER := ADVAN
 PRODUCT_BRAND := ADVAN
